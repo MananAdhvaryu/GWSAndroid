@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDL2Droid-CS", "SDL2Droid-CS\SDL2Droid-CS.csproj", "{C4EB0876-A000-4FAC-8EE7-3A064588E8E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDL2Droid-CS-JBindings", "SDL2Droid-CS-JBindings\SDL2Droid-CS-JBindings.csproj", "{3A8963D1-351B-444B-B2FB-7207601C81DE}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "MnM.GWS", "C:\Users\Manan\source\repos\GWS-master\MnM.GWS\MnM.GWS.shproj", "{919B1BD8-B3E8-477B-93FE-FC314CBB8268}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "MnM.GWS.StandardVersion", "C:\Users\Manan\source\repos\GWS-master\MnM.GWS.StandardVersion\MnM.GWS.StandardVersion.shproj", "{8F6368AE-3A8D-4389-99F5-BE3F9846B504}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "MnM.GWS.SDL", "C:\Users\Manan\source\repos\GWS-master\MnM.GWS.SDL\MnM.GWS.SDL.shproj", "{5520FE37-EFE0-42F3-B94A-1F20207797EE}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		C:\Users\Manan\source\repos\GWS-master\MnM.GWS.SDL\MnM.GWS.SDL.projitems*{5520fe37-efe0-42f3-b94a-1f20207797ee}*SharedItemsImports = 13
+		C:\Users\Manan\source\repos\GWS-master\MnM.GWS.StandardVersion\MnM.GWS.StandardVersion.projitems*{8f6368ae-3a8d-4389-99f5-be3f9846b504}*SharedItemsImports = 13
+		C:\Users\Manan\source\repos\GWS-master\MnM.GWS\MnM.GWS.projitems*{919b1bd8-b3e8-477b-93fe-fc314cbb8268}*SharedItemsImports = 13
+		C:\Users\Manan\source\repos\GWS-master\MnM.GWS.SDL\MnM.GWS.SDL.projitems*{c4eb0876-a000-4fac-8ee7-3a064588e8e0}*SharedItemsImports = 4
+		C:\Users\Manan\source\repos\GWS-master\MnM.GWS.StandardVersion\MnM.GWS.StandardVersion.projitems*{c4eb0876-a000-4fac-8ee7-3a064588e8e0}*SharedItemsImports = 4
+		C:\Users\Manan\source\repos\GWS-master\MnM.GWS\MnM.GWS.projitems*{c4eb0876-a000-4fac-8ee7-3a064588e8e0}*SharedItemsImports = 4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4EB0876-A000-4FAC-8EE7-3A064588E8E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4EB0876-A000-4FAC-8EE7-3A064588E8E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4EB0876-A000-4FAC-8EE7-3A064588E8E0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C4EB0876-A000-4FAC-8EE7-3A064588E8E0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C4EB0876-A000-4FAC-8EE7-3A064588E8E0}.Debug|x64.Build.0 = Debug|Any CPU
+		{C4EB0876-A000-4FAC-8EE7-3A064588E8E0}.Debug|x64.Deploy.0 = Debug|Any CPU
+		{C4EB0876-A000-4FAC-8EE7-3A064588E8E0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C4EB0876-A000-4FAC-8EE7-3A064588E8E0}.Debug|x86.Build.0 = Debug|Any CPU
+		{C4EB0876-A000-4FAC-8EE7-3A064588E8E0}.Debug|x86.Deploy.0 = Debug|Any CPU
+		{C4EB0876-A000-4FAC-8EE7-3A064588E8E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4EB0876-A000-4FAC-8EE7-3A064588E8E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4EB0876-A000-4FAC-8EE7-3A064588E8E0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C4EB0876-A000-4FAC-8EE7-3A064588E8E0}.Release|x64.ActiveCfg = Release|Any CPU
+		{C4EB0876-A000-4FAC-8EE7-3A064588E8E0}.Release|x64.Build.0 = Release|Any CPU
+		{C4EB0876-A000-4FAC-8EE7-3A064588E8E0}.Release|x64.Deploy.0 = Release|Any CPU
+		{C4EB0876-A000-4FAC-8EE7-3A064588E8E0}.Release|x86.ActiveCfg = Release|Any CPU
+		{C4EB0876-A000-4FAC-8EE7-3A064588E8E0}.Release|x86.Build.0 = Release|Any CPU
+		{C4EB0876-A000-4FAC-8EE7-3A064588E8E0}.Release|x86.Deploy.0 = Release|Any CPU
+		{3A8963D1-351B-444B-B2FB-7207601C81DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A8963D1-351B-444B-B2FB-7207601C81DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A8963D1-351B-444B-B2FB-7207601C81DE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3A8963D1-351B-444B-B2FB-7207601C81DE}.Debug|x64.Build.0 = Debug|Any CPU
+		{3A8963D1-351B-444B-B2FB-7207601C81DE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3A8963D1-351B-444B-B2FB-7207601C81DE}.Debug|x86.Build.0 = Debug|Any CPU
+		{3A8963D1-351B-444B-B2FB-7207601C81DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A8963D1-351B-444B-B2FB-7207601C81DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A8963D1-351B-444B-B2FB-7207601C81DE}.Release|x64.ActiveCfg = Release|Any CPU
+		{3A8963D1-351B-444B-B2FB-7207601C81DE}.Release|x64.Build.0 = Release|Any CPU
+		{3A8963D1-351B-444B-B2FB-7207601C81DE}.Release|x86.ActiveCfg = Release|Any CPU
+		{3A8963D1-351B-444B-B2FB-7207601C81DE}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D61B94D2-2CAC-4CED-8D54-444D1C897430}
+	EndGlobalSection
+EndGlobal
